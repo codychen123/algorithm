@@ -19,7 +19,7 @@ public class question_25 {
 
     public static ListNode reverse(ListNode a, ListNode b) {
         ListNode pre, cur, nxt;
-        pre = null, cur = a, nxt = a;
+        pre = null; cur = a; nxt = a;
         while (cur != b) {
             nxt = cur.next;
             // 指针反向

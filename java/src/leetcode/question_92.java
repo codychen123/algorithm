@@ -15,7 +15,6 @@ public class question_92 {
      */
     public static void main(String[] args) {
         ListNode test = new ListNode() ;
-        test = {1,2,3,4,5};
         ListNode res = reverseBetween(test,2,4);
     }
 
