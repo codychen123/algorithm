@@ -91,6 +91,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java" />
+              <option name="questionId" value="450" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[538]把二叉搜索树转换为累加树.java">
           <value>
             <LeetcodeEditor>
@@ -115,11 +123,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[700]二叉搜索树中的搜索.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[700]二叉搜索树中的搜索.java" />
+              <option name="questionId" value="783" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[701]二叉搜索树中的插入操作.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[701]二叉搜索树中的插入操作.java" />
+              <option name="questionId" value="784" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[92]反转链表 II.java">
           <value>
             <LeetcodeEditor>
               <option name="path" value="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[92]反转链表 II.java" />
               <option name="questionId" value="92" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/lf/kvv1d4zj3pbd915b153jh20c0000gn/T/leetcode/editor/cn/[98]验证二叉搜索树.java" />
+              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
