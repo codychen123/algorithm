@@ -4,13 +4,14 @@ import java.util.ArrayList;
 
 public class question_230 {
     public static void main(String[] args) {
-        int[] test = {3,1,4,5,2};
-        System.out.println(kthSmallest(test, 1));
+//        int[] test = {3,1,4,5,2};
+//        System.out.println(kthSmallest(test, 1));
     }
     public static int kthSmallest(TreeNode root, int k) {
-        treeVal = new ArrayList<int>();
-        buildArray(root);
-        return treeVal(k - 1);
+//        ArrayList<int> treeVal = new ArrayList<int>();
+//        buildArray(root);
+//        return treeVal(k - 1);
+        return 1;
     }
 
     public static ArrayList<Integer> treeVal = new ArrayList<Integer>();
