@@ -13,7 +13,7 @@ public class question_872 {
             isSimilar = false;
         } else {
             for (int i = 0; i< arr1.size(); i++) {
-                if (arr1.get(i) != arr2[i]) {
+                if (arr1.get(i) != arr2.get(i)) {
                     isSimilar = false;
                     break;
                 }
