@@ -18,6 +18,7 @@ public class question_95 {
 
     public ArrayList<TreeNode> generateTrees(int start, int end) {
         LinkedList<TreeNode> res = new LinkedList<>();
+
         if (start > end) {
             res.add(null);
             return res;
